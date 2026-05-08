@@ -1,47 +1,51 @@
-## 👋 Hi, I’m Rajvansh
+# 👋 Hi, I’m Rajvansh
 
-🎓 Computer Science student at the University of Guelph  
-💻 Interested in Systems Programming, Cybersecurity, and Data Engineering  
-🚀 Currently working toward backend / systems-focused internships  
+Bachelor of Computing student with an Area of Emphasis in Cybersecurity at the University of Guelph.
 
----
-
-## 🔧 What I’m Building
-
-- ⚙️ Systems-level projects (C, Python, performance-focused design)
-- 🔗 Cross-language architectures (Python + C via FFI)
-- 📊 Data-oriented applications and tools  
+Interested in systems programming, cybersecurity, Linux systems, and infrastructure-focused technologies. Currently building technical projects focused on low-level programming, software reliability, and security-oriented development.
 
 ---
 
-## 🧠 Current Focus
+# 🔧 What I’m Building
 
-- Strengthening data structures & algorithms  
-- Building production-quality projects (testing, memory safety, clean architecture)  
-- Applying to internships in backend, systems, and data roles  
+- Systems-level projects in C and Python  
+- Security-focused tools and automation scripts  
+- Cross-language architectures (Python + C via FFI)  
+- Linux and networking-focused projects  
+- Data-oriented applications and backend tooling  
 
 ---
 
-## 📌 Featured Project
+# 🧠 Current Focus
 
-🎮 **TreasureRunner**  
+- Strengthening systems programming and cybersecurity fundamentals  
+- Building production-quality projects with testing and memory-safe practices  
+- Developing practical skills in Linux, networking, and security tooling  
+- Preparing for cybersecurity, infrastructure, and systems-focused internships  
+
+---
+
+# 📌 Featured Project
+
+## 🎮 TreasureRunner  
 A high-performance game engine with a C backend and Python interface using ctypes.
 
-→ Manual memory management (0 leaks, Valgrind verified)  
-→ MVC architecture + cross-language integration  
-→ Unit + integration testing across C and Python  
+- Manual memory management (Valgrind verified)  
+- MVC architecture + cross-language integration  
+- Unit and integration testing across C and Python  
+- Focus on performance, reliability, and low-level systems concepts  
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-**Languages:** C, Python, java, HTML/CSS, R
-**Tools:** Git, Make, Valgrind, Docker
-**Concepts:** Systems Design, FFI, Memory Management, MVC  
+**Languages:** C, Python, Java, HTML/CSS, R  
+**Tools:** Git, Docker, Make, Valgrind, Linux  
+**Concepts:** Systems Programming, Memory Management, Networking Fundamentals, FFI, MVC  
 
 ---
 
-## 📫 Connect
+# 📫 Connect
 
-- LinkedIn: https://www.linkedin.com/in/rajvansh-sandhu-4341872b9/
-- Email: rajvanshsandhu2006@gmail.com
+- LinkedIn: https://www.linkedin.com/in/rajvansh-sandhu-4341872b9/  
+- Email: rajvanshsandhu2006@gmail.com  
