@@ -2,19 +2,9 @@
 
 Bachelor of Computing student with an Area of Emphasis in Cybersecurity at the University of Guelph.
 
-Interested in systems programming, cybersecurity, Linux systems, and infrastructure-focused technologies. Currently building technical projects focused on low-level programming, software reliability, and security-oriented development.
+Interested in systems programming, cybersecurity, Linux systems, and infrastructure-focused technologies. Currently building my portfilio.
 
----
 
-# 🔧 What I’m Building
-
-- Systems-level projects in C and Python  
-- Security-focused tools and automation scripts  
-- Cross-language architectures (Python + C via FFI)  
-- Linux and networking-focused projects  
-- Data-oriented applications and backend tooling  
-
----
 
 # 🧠 Current Focus
 
