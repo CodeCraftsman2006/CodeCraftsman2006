@@ -23,13 +23,13 @@ A high-performance game engine with a C backend and Python interface using ctype
 - Unit and integration testing across C and Python  
 - Focus on performance, reliability, and low-level systems concepts
 
-##🧠 Virtual Memory Paging & Cache Replacement Simulator (C)
+## 🧠 Virtual Memory Paging & Cache Replacement Simulator (C)
 - Implemented a virtual memory paging simulator modeling page tables and TLB behavior under constrained memory conditions
 - Designed and tested FIFO, LRU, and MIN page replacement algorithms
 - Implemented bit-level address translation using VPN/offset extraction
 - Simulated realistic OS memory management behavior including page faults and eviction policies
 
-##🗄️ Heap Memory Allocator – Bump & Free List Strategies (C)
+## 🗄️ Heap Memory Allocator – Bump & Free List Strategies (C)
 - Built a custom user-space heap allocator implementing bump allocation and free-list management
 - Designed first-fit, best-fit, and worst-fit allocation strategies
 - Implemented block splitting and coalescing to reduce fragmentation
