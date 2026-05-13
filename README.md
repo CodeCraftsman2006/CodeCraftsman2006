@@ -10,7 +10,7 @@ Interested in systems programming, cybersecurity, Linux systems, and infrastruct
 
 # 🧠 Current Focus
 
-- Strengthening systems programming and cybersecurity fundamentals to get the comptia+ certification
+- Strengthening systems programming, cybersecurity fundamentals, OS-concepts.
 
 
 # 📌 Featured Project
