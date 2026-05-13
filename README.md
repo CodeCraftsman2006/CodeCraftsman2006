@@ -13,7 +13,7 @@ Interested in systems programming, cybersecurity, Linux systems, and infrastruct
 - Strengthening systems programming, cybersecurity fundamentals, OS-concepts.
 
 
-# 📌 Featured Project
+# 📌 Featured Project's
 
 ## 🎮 TreasureRunner  
 A high-performance game engine with a C backend and Python interface using ctypes.
